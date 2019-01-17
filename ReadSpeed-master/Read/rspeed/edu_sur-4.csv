@@ -1,0 +1,47 @@
+Timestamp,Student Name,Subject Name (Write Full Form with correct spelling),Toughness Level,Type of Subject,Subject Syllabus,Preferred Reading Source,Interest Level,Supporting Knowledge for the subject (eg. - having knowledge of Maths1 for Maths2),Average reading time  (in minutes) per page,Current Status  (Rate your completion on the scale of 0 to 10 i.e. complete),Number of Revision required,Due Date,Desired Number (Marks out of 100),Checking Level,Marks in Same or Similar Subject,Education Type,Semester/Class (Enter Number) ,As per your opinion how many number of hours do you need to complete the syllabus 
+12/14/2018 16:10,Pratik Sabre,Maths,Medium,Numerical,Medium (400+ pages),Multiple,Normal,Beginner,5,7,2,12/18/2018,75,Normal,60,Graduation,5,0
+12/14/2018 16:10,Prayansh Ratan Srivastava,Computer Networks,Hard,Theoritical,Lenghty (600+ pages),Multiple,Normal,None,25,1,2,1/10/2019,70,Normal,15,Graduation,5,0
+12/14/2018 16:10,Pratik Das Baghel,Computer Networks,Medium,Numerical,Medium (400+ pages),Multiple,Interesting,None,3,7,2,12/25/2018,70,Lenient,0,Graduation,5,0
+12/14/2018 16:12,Pratik Das Baghel,Computer Graphics,Easy,Theoritical,Short,Notes,Very Interesting,None,2,10,1,12/5/2018,90,Strict,0,Graduation,5,0
+12/14/2018 16:14,Pratik Sabre,Computer Networks,Hard,Theoritical,Medium (400+ pages),Multiple,Interesting,None,5,4,2,12/18/2018,70,Lenient,68,Graduation,5,0
+12/14/2018 16:21,Yash Das Baghel,Computer Networks ,Easy,Theoritical,Very Lengthy (800+ pages),Multiple,Interesting,Intermediate,3,8,1,11/15/2018,90,Strict,80,Post Graduation,2,60
+12/14/2018 16:23,Rohit Sharma,Computer Networks,Medium,Other,Very Lengthy (800+ pages),Book,Very Interesting,Beginner,6,6,3,4/11/2018,95,Lenient,87,School,12,46
+12/14/2018 16:25,Afroz Loya,Computer Networks,Medium,Numerical,Lengthy (600+ pages),Notes,Normal,Beginner,5,2,2,4/30/2019,76,Normal,55,Graduation,3,45
+12/14/2018 16:25,Ajay Kumar,Computer Networks,Easy,Numerical,Very Lengthy (800+ pages),Book,Interesting,Beginner,20,3,1,1/10/2019,80,Lenient,35,Graduation,5,50
+12/14/2018 16:26,Panda Prayansh Srivastav,Computer Networks,Easy,Theoritical,Lengthy (600+ pages),Multiple,Interesting,Beginner,3,7,1,12/26/2018,80,Lenient,70,Graduation,5,30
+12/14/2018 16:29,Chunt Chandel,Computer Networks,Easy,Theoritical,Short,Book,Very Interesting,Intermediate,2,8,0,12/26/2018,100,Normal,90,Graduation,5,4
+12/14/2018 16:31,Vaibhav Gupta,Computer Networks,Medium,Other,Lengthy (600+ pages),Multiple,Very Interesting,Intermediate,3,8,1,11/7/2018,93,Strict,80,Graduation,5,30
+12/14/2018 16:33,NERDYvyanshu,Computer Networks,Easy,Theoritical,Short,Book,Very Interesting,Expert,1,9,0,12/26/2018,100,Lenient,95,Graduation,5,14
+12/14/2018 16:34,Prabal Dev,Computer Networks,Medium,Other,Lengthy (600+ pages),Multiple,Normal,Beginner,2.5,8,1,11/10/2018,89,Normal,86,Post Graduation,3,67
+12/14/2018 16:37,Raju Rastogi,Computer Networks,Hard,Theoritical,Lengthy (600+ pages),Multiple,Normal,Beginner,10,5,3,12/26/2018,40,Normal,35,Graduation,5,50
+12/14/2018 16:37,Batman,Computer Networks ,Easy,Theoritical,Short,Book,Boring,Expert,1.5,10,0,12/10/2018,99,Normal,45,Graduation,4,76
+12/14/2018 16:41,Parkaas,Computer Networks,Easy,Theoritical,Lengthy (600+ pages),Book,Very Interesting,Intermediate,15,5,1,1/10/2019,90,Normal,25,Graduation,5,20
+12/14/2018 16:46,Dodo,Computer Networks,Medium,Practical,Lengthy (600+ pages),Multiple,Interesting,Beginner,20,3,1,1/10/2019,80,Normal,15,Graduation,5,20
+12/14/2018 16:47,Prateek Modi,Computer Networks,Medium,Practical,Very Lengthy (800+ pages),Notes,Very Interesting,Beginner,2.5,8,1,4/15/2018,98,Strict,87,Graduation,5,32
+12/14/2018 16:47,Thakur,Computer Networks,Hard,Theoritical,Medium (400+ pages),Multiple,Boring,None,20,5,1,12/26/2018,40,Lenient,30,Graduation,5,50
+12/14/2018 16:59,Suraj Sahu,Machine Learning,Medium,Practical,Medium (400+ pages),Multiple,Very Interesting,Beginner,20,1,1,2/22/0018,75,Normal,1,Graduation,1,50
+12/14/2018 17:04,Aman Kumar,Web development,Medium,Practical,Medium (400+ pages),Notes,Interesting,Intermediate,15,6,1,7/1/2019,75,Normal,70,Graduation,6,
+12/14/2018 17:09,R bhargav,Ravada bhargav,Easy,Practical,Short,Notes,Normal,Beginner,15,8,0,12/20/2018,84,Normal,75,Graduation,7,5
+12/14/2018 17:11,Ayushi Tiwari,Computer science,Medium,Practical,Lengthy (600+ pages),Book,Very Interesting,Intermediate,3,3,3,12/18/2018,85,Normal,79,Graduation,5,5
+12/14/2018 17:14,Satyajeet Sahu,Soil & Water Conservation Engineering,Medium,Theoritical,Very Lengthy (800+ pages),Multiple,Interesting,None,10,7,3,12/28/2018,92,Normal,92,Graduation,5,100
+12/14/2018 17:22,Syed Sofiya Ali,Artificial Intelligence ,Easy,Practical,Medium (400+ pages),Video,Interesting,Beginner,3,5,2,12/14/2018,70,Normal,70,Graduation,5,500
+12/14/2018 17:41,Nitesh khuttel,Electrical machine,Hard,Theoritical,Medium (400+ pages),Multiple,Normal,Intermediate,15,10,2,12/22/2018,80,Strict,50,Graduation,5,3
+12/14/2018 17:44,CHETANA SAHU,Data structure,Medium,Practical,Lengthy (600+ pages),Multiple,Interesting,Beginner,10,7,1,2/7/2019,90,Normal,90,Graduation,3,3
+12/14/2018 18:21,Deepika nishad,Artificial intelligence ,Medium,Practical,Lengthy (600+ pages),Notes,Very Interesting,Beginner,10,8,5,12/31/2018,50,Strict,80,School,5,5
+12/14/2018 20:16,Shubham Roy ,Python Programming ,Medium,Practical,Medium (400+ pages),Multiple,Very Interesting,Beginner,2,10,3,12/19/2018,70,Normal,70,Graduation,5,2
+12/14/2018 21:08,Vaibhav Agrawal,Programming in Java,Medium,Theoritical,Medium (400+ pages),Book,Very Interesting,Intermediate,3,6,2,12/22/2018,70,Strict,70,School,5,40
+12/14/2018 22:17,Vaibhav gupta,Computer Network,Medium,Theoritical,Medium (400+ pages),Book,Interesting,Beginner,10,6,2,12/31/2018,90,Normal,85,Graduation,5,30
+12/14/2018 23:49,Fatima Loya,Maths,Medium,Numerical,Short,Book,Very Interesting,Beginner,10,5,1,1/31/2019,100,Normal,100,School,2,18
+12/15/2018 16:30,Yash Krishan,Dbms,Medium,Practical,Medium (400+ pages),Multiple,Interesting,Beginner,5,7,2,11/17/2018,75,Normal,65,Graduation,5,22
+12/15/2018 20:17,Mohar,Basic electrical engineering ,Hard,Theoritical,Lengthy (600+ pages),Book,Normal,Beginner,10,6,3,11/10/2018,90,Normal,95,Graduation,1,100
+12/15/2018 22:31,Kapil Bedekar,Engineering Mechanics,Easy,Numerical,Medium (400+ pages),Book,Very Interesting,Beginner,3,10,2,12/15/2018,100,Normal,68,Graduation,2,10
+12/15/2018 22:37,Rohit Agarwal,Artificial Intelligence,Medium,Practical,Lengthy (600+ pages),Multiple,Interesting,Beginner,7,6,2,12/31/2018,90,Normal,85,Graduation,7,60
+12/15/2018 22:57,Nandita Prasad,Data Structure,Medium,Practical,Very Lengthy (800+ pages),Multiple,Very Interesting,Intermediate,5,8,2,12/18/2018,99,Lenient,88,Graduation,6,48
+12/15/2018 23:09,Debosmita Paul,Microprocessor,Medium,Theoritical,Lengthy (600+ pages),Multiple,Interesting,Intermediate,5,9,2,12/15/2018,64,Normal,60,Graduation,5,18
+12/15/2018 23:26,Shalini Kumari,Object Oriented Programming,Medium,Practical,Medium (400+ pages),Book,Very Interesting,Intermediate,5,8,3,12/20/2018,97,Strict,92,Graduation,5,24
+12/15/2018 23:39,Ena Chandak,Computer network,Medium,Theoritical,Lengthy (600+ pages),Multiple,Interesting,None,15,8,3,11/15/2018,85,Normal,85,Graduation,5,25
+12/16/2018 8:39,NIHARIKA Chowdary ,Computer networks,Hard,Practical,Very Lengthy (800+ pages),Book,Interesting,Intermediate,20,8,3,12/16/2018,70,Strict,50,Graduation,5,55
+12/16/2018 9:52,Tameshwar sahu,Database management system,Medium,Theoritical,Medium (400+ pages),Multiple,Interesting,Intermediate,2,6,3,12/12/2019,100,Normal,100,Graduation,5,20
+12/16/2018 13:03,Alka Singh,Design and analysis of algorithms,Medium,Theoritical,Medium (400+ pages),Multiple,Very Interesting,Intermediate,15,5,2,12/16/2018,85,Normal,85,Graduation,5,10
+12/17/2018 6:19,Ravindra Mourya,Computer Networks,Medium,Theoritical,Lengthy (600+ pages),Book,Interesting,Beginner,4,8,2,12/14/2018,70,Strict,57,Graduation,5,40
+12/17/2018 21:10,G tekeshwar subham,Electrical machine,Medium,Numerical,Lengthy (600+ pages),Book,Interesting,Intermediate,40,9,3,7/17/2020,59,Normal,35,Graduation,7,1000

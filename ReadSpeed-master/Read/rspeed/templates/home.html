@@ -1,0 +1,6 @@
+{% extends 'base.html' %} {% load static %} {% block content %}
+<h3 style="font-size: 24px;" class="myhead1">As per data from all users you might need {{insid}} Hours for your target!</h3>
+<hr>
+<p>Note: This prediction is just to help you guess! Your own judgment might be more accurate!</p>
+<h4><a href = "{% url 'reg' %}">Go Back</a></h4>
+{% endblock %}

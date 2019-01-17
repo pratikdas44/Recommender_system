@@ -1,0 +1,72 @@
+@CHARSET "ISO-8859-1";
+.heading1{
+	height: 240px;
+ 	background-image: url("images/banner.jpg");
+	background-size: cover; 	
+	background-position: center;
+}
+
+.head1{
+	font-size: 40px;
+	font-weight: bold;
+	text-shadow: black 3px 3px 3px;
+}
+
+.navbar-expand-sm .navbar-nav .nav-link{
+	font-size: 24px;
+	font-weight: bold;
+	color: white;
+	text-shadow: black 2px 2px 2px;
+}
+
+@media(max-width: 576px){
+.navbar-expand-sm .navbar-nav .nav-link{
+	background-color: black;
+	opacity: 0.8;
+	padding: 10px;
+}	
+}
+
+body{
+	background-color: rgb(240,240,255);
+}
+
+.txt2{
+	text-align: center;
+	background-color: #333333;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	text-shadow: black 2px 2px 2px;
+	padding: 4px;
+}
+.myhead1{
+	color: #333333;
+	font-size: 36px;
+	font-weight: bold;
+	text-shadow: white 2px 2px 2px;
+	padding: 4px;	
+}
+
+.head3{
+	background-color: #333333;
+	font-size: 36px;
+	font-weight: bold;
+	text-shadow: black 2px 2px 2px;
+	color: white;
+	padding: 4px;	
+	border-radius: 20px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.head4{
+	background-color: #333333;
+	font-size: 24px;
+	text-shadow: black 1px 1px 1px;
+	color: white;
+	padding: 2px;	
+	border-radius: 10px;
+	text-align: center;
+	margin-bottom: 10px;
+}
