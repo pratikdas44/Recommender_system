@@ -1,0 +1,16 @@
+{% extends 'base.html' %} {% load static %} {% block content %}
+<h3 style="font-size: 24px;" class="myhead1">Similar Teacher</h3>
+<hr>
+<div class="row">
+        <div class="col-md-8 offset-sm-2">
+            <form action="{% url 'sim_r' %}">
+        <select name="tid">
+            {% for t1 in teachers%}
+            <option value="{{t1.id}}">{{t1.TEACHER_NAME}}</option>
+            {% endfor %}
+        </select>
+                <input class="btn btn-danger" type="Submit" value="Check Similar" />
+            </form>
+        </div>
+</div>
+{% endblock %}

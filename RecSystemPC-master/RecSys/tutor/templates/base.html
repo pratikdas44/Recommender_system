@@ -1,0 +1,29 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}Read Speed{% endblock %}</title>
+<link href="{% static 'vender/bs/css/bootstrap.min.css'%}" rel="stylesheet" type="text/css" />
+<link href="{% static 'vender/fa/css/font-awesome.min.css'%}" rel="stylesheet" type="text/css" />
+<link href="{% static 'style.css'%}" rel="stylesheet" type="text/css" />
+<script src="{% static 'vender/jquery-3.3.1.min.js'%}"></script>
+<script src="{% static 'vender/popper.min.js'%}"></script>
+<script src="{% static 'vender/bs/js/bootstrap.min.js'%}"></script>
+</head>
+<body>
+<div class="heading1">
+</div>
+<br>
+<h1 class="text-center" style="color:red; text-shadow: black 2px 2px 2px;"><a href="http://www.effcon.co.in">EFFCON</a></h1>
+<hr>
+<a class="ml-3 btn btn-primary" href = "{% url 'reg' %}">Search Teacher by likes</a>
+<a class="btn btn-primary" href = "{% url 'sim' %}">Similar Teachers</a>
+<div class="container-fluid my-4">
+{% block content %}
+{% endblock %}
+</div>
+<p class="txt2">Copyright @ <a href="http://www.effcon.co.in">http://effcon.co.in</a></p>
+</body>
+</html>

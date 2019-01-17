@@ -1,0 +1,85 @@
+{% extends 'base.html' %} {% load static %} {% block content %}
+<h3 style="font-size: 24px;" class="myhead1">Popular Teachers</h3>
+<hr>
+<div class="row">
+    <div class="col-md-6">
+    <table class="table table-responsive table-striped w-100 d-block d-md-table">
+        <thead class="thead-dark">
+        <tr>
+            <th>No</th>
+            <th>Teacher Name</th>
+            <th>Score</th>
+        </tr>
+        </thead>
+        {% for e in popu %}
+        <tr>
+            <td>{{forloop.counter}}</td>
+            <td>{{e.DISPLAY_NAME}}</td>
+            <td>{{e.score}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    </div>
+    <div class="col-md-6">
+    <table class="table table-responsive table-striped w-100 d-block d-md-table">
+        <thead class="thead-dark">
+        <tr>
+            <th>No</th>
+            <th>Teacher Name</th>
+            <th>Score</th>
+        </tr>
+        </thead>
+        {% for e in simToLiked %}
+        <tr>
+            <td>{{forloop.counter}}</td>
+            <td>{{e.DISPLAY_NAME}}</td>
+            <td>{{e.score}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    </div>
+
+</div>
+<div class="row">
+        <div class="col-md-6">
+    <table class="table table-responsive table-striped w-100 d-block d-md-table">
+        <thead class="thead-dark">
+        <tr>
+            <th>No</th>
+            <th>Teacher Name</th>
+            <th>Score</th>
+        </tr>
+        </thead>
+        {% for e in bySimUser2 %}
+        <tr>
+            <td>{{forloop.counter}}</td>
+            <td>{{e.DISPLAY_NAME}}</td>
+            <td>{{e.PERCENTAGE}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    </div>
+
+            <div class="col-md-6">
+    <table class="table table-responsive table-striped w-100 d-block d-md-table">
+        <thead class="thead-dark">
+        <tr>
+            <th>No</th>
+            <th>Teacher Name</th>
+            <th>Score</th>
+        </tr>
+        </thead>
+        {% for e in bySimUser %}
+        <tr>
+            <td>{{forloop.counter}}</td>
+            <td>{{e.DISPLAY_NAME}}</td>
+            <td>{{e.PERCENTAGE}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    </div>
+
+
+</div>
+<h4><a href = "{% url 'reg' %}">Go Back</a></h4>
+{% endblock %}

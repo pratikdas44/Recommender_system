@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% load crispy_forms_tags %}
+{% block content %}
+<style>
+/*
+ th{
+ width: 35%;
+ font-size: 16px;
+ }
+@media(max-width: 500px) {
+ th{
+     width: 50%;
+    font-size: 12px;
+ }
+ input, select {
+    width: 100%;
+ }
+}
+*/
+
+</style>
+<div class="row">
+<div class="col-lg-6 offset-lg-3">
+<form method="post" enctype="multipart/form-data">{% csrf_token %}
+	<table class="table">
+         {{ form | crispy }}
+    </table>
+    <input type="submit" class="btn btn-block btn-success" value="Submit" />
+</form>
+</div>
+</div>
+{% endblock %}
